@@ -1,0 +1,132 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    background-color:#c3c6c6;
+    background-repeat: repeat;
+}
+ul {
+    padding: 0px!important;
+}
+.menu-principal {
+    width: 100%;
+    background-color: #252323;
+    height: 80px;
+}
+main {
+    margin: 0 auto;
+    width: 1064px;
+    position: relative;
+}
+.logo {
+    padding: 18px;
+    float: left;
+    width: 40%;
+}
+.rede_sociais ul li {
+    display: inline-block;
+    margin-left: 5px;
+}
+.rede_sociais {
+    padding-left: 30px;
+    padding-top: 5px;
+    float: right;
+    width: 20%;
+}
+.search{
+    padding: 21px;
+    float: right;
+}
+.search input {
+    background-image: url(../img/icone_search.png);
+    background-repeat: no-repeat;
+    background-position: 96%;
+    height: 35px;
+    width: 300px;
+    border: 2px solid #c3c6c6;
+    
+}
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+.header-2 {
+    background-color:#458B74;
+    width: 1064px;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.header_wordmark {
+    width: 195px;
+    height: 150px;
+    float: left;
+}
+.titulo{
+   padding-left: 40px;
+   text-align: center;
+}
+.titulo_wiki {
+    color: #efefef;
+    font-family: Bookman, URW Bookman L, serif;
+    font-size: 40px;
+}
+.imagem_menu{
+    max-width:150px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    padding-left: 50px;
+}
+.menu {
+    text-align: center;
+}
+.menu ul li{
+    padding: 10px;
+    display : inline-block;
+    margin-left: 5px;
+    color:#efefef;
+    font-family: Bookman, URW Bookman L, serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    height: 30px;
+}
+.menu ul li:hover {
+        border-bottom: 2px solid #c3c6c6;
+}
+.menu ul li a:hover {
+    color:#c3c6c6;
+}
+.menu ul li a {
+    text-decoration: none;
+    color: #efefef;
+}
+.header-3 {
+    background-color:#f3f4f4;
+    width: 1064px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-bottom: solid 1px #c3c6c6;
+}
+.page_head {
+    width: 800px;
+    margin: 0 auto;
+}
+.corpo_texto {
+    width: 1064px;
+    height: 1800px;
+    background-color: #f3f4f4;
+    margin: 0 auto;
+}
+.imagem_corpo_texto {
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+}
+.heroes_do_olimpo {
+    padding-top: 30px;
+    max-width:650px;
+    width: auto;
+    height: auto;
+}
